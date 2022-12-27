@@ -18,8 +18,8 @@ Exploratory Data Analysis / Data Wrangling
    
 
 Web Scrapping
-1. Web scrapper for yahoo finance ticker statistics (Selenium / Beautiful Soup)
-2. K-means clustering on stock portfolio (in-progress)
+1. Web scrapper for yahoo finance ticker statistics (Beautiful Soup) with K-means analysis
+2. S&P web scrapper and segment analysis (K-means clustering)
 
 Time Series
 1. Rainy days in Singapore (in-progress)
