@@ -6,7 +6,7 @@
 
 # Personal projects:
 Exploratory Data Analysis / Data Wrangling
-1. EDA and recommendation on pet store sales
+1. EDA and recommendation on pet store sales <a href="">github</a>
 2. EDA and prediction on Healthcare Attrition (Decision Tree) 
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
 
