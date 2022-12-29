@@ -22,7 +22,7 @@ Web Scrapping (BeautifulSoup) / clustering
 2. S&P web scrapper (BeautifulSoup), segment analysis (K-means) <a href="https://github.com/sienlonglim/s-p_web_scrapper_segment_analysis_k-means">github</a>
 
 Time Series
-1. Rainfall prediction in Singapore <a href="[https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis](https://github.com/sienlonglim/timeseries_sg_rainfall)">github</a>
+1. Rainfall prediction in Singapore <a href="https://github.com/sienlonglim/timeseries_sg_rainfall">github</a>
 2. Stock price prediction (in-progress)
 
 <!---
