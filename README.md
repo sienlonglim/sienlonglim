@@ -6,23 +6,23 @@
 
 # Personal projects:
 Exploratory Data Analysis / Data Wrangling
-1. EDA and recommendation on pet store sales <a href="">github</a>
+1. EDA and recommendation on pet store sales <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales">github</a>
 2. EDA and prediction on Healthcare Attrition (Decision Tree) 
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
 
-3. Regression fill on World Economic Data (Polynomial regression)
+3. Regression fill on World Economic Data (Linear, polynomial regression)
 <a href="https://www.kaggle.com/code/sienlong/world-economic-data-polynomial-regression">kaggle</a>
 
-5. EDA of World Population Data (using Plotly)
+5. EDA of World Population Data (Interactive charts with Plotly)
 <a href="https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths">kaggle</a>
    
 
-Web Scrapping
-1. Web scrapper for yahoo finance ticker statistics (Beautiful Soup) with K-means analysis
-2. S&P web scrapper and segment analysis (K-means clustering)
+Web Scrapping (BeautifulSoup) / clustering
+1. Yahoo ticker financial stats,  portfolio analysis (K-means) and stock recommendation<a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
+2. S&P web scrapper (BeautifulSoup), segment analysis (K-means)<a href="https://github.com/sienlonglim/s-p_web_scrapper_segment_analysis_k-means">github</a>
 
 Time Series
-1. Rainy days in Singapore (in-progress)
+1. Rainfall prediction in Singapore <a href="[https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis](https://github.com/sienlonglim/timeseries_sg_rainfall)">github</a>
 2. Stock price prediction (in-progress)
 
 <!---
