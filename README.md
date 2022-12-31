@@ -22,8 +22,7 @@ Web Scrapping (BeautifulSoup) / clustering
 2. S&P web scrapper (BeautifulSoup), segment analysis (K-means) <a href="https://github.com/sienlonglim/s-p_web_scrapper_segment_analysis_k-means">github</a>
 
 Time Series
-1. Rainfall prediction in Singapore <a href="https://github.com/sienlonglim/timeseries_sg_rainfall">github</a>
-2. Stock price prediction (in-progress)
+1. Stock price prediction <a href="https://github.com/sienlonglim/stock_price_prediction">github</a>
 
 <!---
 Natuyuki-SL/Natuyuki-SL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
