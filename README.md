@@ -17,9 +17,8 @@ Exploratory Data Analysis / Data Wrangling
 <a href="https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths">kaggle</a>
    
 
-Web Scrapping (BeautifulSoup) / clustering
-1. Yahoo ticker financial stats,  portfolio analysis (K-means) and stock recommendation <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
-2. S&P web scrapper (BeautifulSoup), segment analysis (K-means) <a href="https://github.com/sienlonglim/s-p_web_scrapper_segment_analysis_k-means">github</a>
+Web Scrapping (BS4) / clustering
+1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
 
 Time Series
 1. Stock price prediction <a href="https://github.com/sienlonglim/stock_price_prediction">github</a>
