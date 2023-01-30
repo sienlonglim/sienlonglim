@@ -20,8 +20,6 @@ Exploratory Data Analysis / Data Wrangling
 Web Scrapping (BS4) / clustering
 1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
 
-Time Series
-1. Stock price prediction <a href="https://github.com/sienlonglim/stock_price_prediction">github</a>
 
 <!---
 Natuyuki-SL/Natuyuki-SL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
