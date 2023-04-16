@@ -17,11 +17,11 @@ Exploratory Data Analysis / Data Wrangling
 <a href="https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths">kaggle</a>
    
 
-Web Scrapping (BS4) / clustering
+Web Scrapping (BS4) / RDBMS / clustering
 1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
 
-Web Application / RDBMS (MariaDB)
-1. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
+Web Application / Telegram Bot / RDBMS
+1. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/attendance_webapp">github</a>
 
 <!---
 Natuyuki-SL/Natuyuki-SL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
