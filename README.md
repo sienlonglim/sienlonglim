@@ -7,6 +7,7 @@
 # Personal projects:
 Exploratory Data Analysis / Machine Learning
 1. EDA of Real Anomymized Financial Dataset (Czech Republic PKDD 99' Discovery Challenge)
+<a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">source</a>
 
 2. EDA and prediction on Watson Healthcare Employee Attrition (Decision Tree) 
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
