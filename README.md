@@ -22,8 +22,11 @@ Exploratory Data Analysis / Machine Learning
 <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales">github</a>
    
 <br/>
+
 Web Scrapping (BS4) / RDBMS / clustering
 1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
+
+<br/>
 
 Web Application / Telegram Bot / RDBMS
 1. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/attendance_webapp">github</a>
