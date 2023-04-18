@@ -2,10 +2,10 @@
 - 👀 I’m interested in Data Engineering, Data Analytics and Data Science.
 - 🌱 I’m currently learning Python libraries, ML techniques, Power BI, Git, Statistical analysis, HTML, CSS etc
 - 💞️ I’m looking to collaborate on anything that can help me learn.
-- 📫 How to reach me limsienlong@gmail.com, https://leetcode.com/Natuyuki/ , https://www.kaggle.com/sienlong
+- 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/, https://leetcode.com/Natuyuki/ , https://www.kaggle.com/sienlong
 
 # Personal projects:
-Exploratory Data Analysis / ML
+Exploratory Data Analysis / Machine Learning
 1. EDA of Real Anomymized Financial Dataset (Czech Republic PKDD 99' Discovery Challenge)
 
 2. EDA and prediction on Watson Healthcare Employee Attrition (Decision Tree) 
