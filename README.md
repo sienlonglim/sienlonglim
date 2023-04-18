@@ -21,7 +21,7 @@ Exploratory Data Analysis / Machine Learning
 5. EDA and recommendation on pet store sales (Fictitious dataset) 
 <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales">github</a>
    
-
+<br/>
 Web Scrapping (BS4) / RDBMS / clustering
 1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
 
