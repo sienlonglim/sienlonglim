@@ -5,16 +5,20 @@
 - 📫 How to reach me limsienlong@gmail.com, https://leetcode.com/Natuyuki/ , https://www.kaggle.com/sienlong
 
 # Personal projects:
-Exploratory Data Analysis / Data Wrangling
-1. EDA and recommendation on pet store sales <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales">github</a>
-2. EDA and prediction on Healthcare Attrition (Decision Tree) 
+Exploratory Data Analysis / ML
+1. EDA of Real Anomymized Financial Dataset (Czech Republic PKDD 99' Discovery Challenge)
+
+2. EDA and prediction on Watson Healthcare Employee Attrition (Decision Tree) 
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
 
 3. Regression fill on World Economic Data (Linear, polynomial regression)
 <a href="https://www.kaggle.com/code/sienlong/world-economic-data-polynomial-regression">kaggle</a>
 
-5. EDA of World Population Data (Interactive charts with Plotly)
+4. EDA of World Population Data (Interactive charts with Plotly)
 <a href="https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths">kaggle</a>
+
+5. EDA and recommendation on pet store sales (Fictitious dataset) 
+<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales">github</a>
    
 
 Web Scrapping (BS4) / RDBMS / clustering
