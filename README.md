@@ -9,7 +9,7 @@ Exploratory Data Analysis / Machine Learning
 1. EDA of Real Anomymized Financial Dataset (Czech Republic PKDD 99' Discovery Challenge)
 <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">source</a>
 
-2. EDA and prediction on Watson Healthcare Employee Attrition (Decision Tree) 
+2. Classification of Watson Healthcare Employee Attrition (Decision Tree) 
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
 
 3. Regression fill on World Economic Data (Linear, polynomial regression)
@@ -24,11 +24,12 @@ Exploratory Data Analysis / Machine Learning
 <br/>
 
 Web Scrapping (BS4) / RDBMS / clustering
-1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
+1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation (KNN) 
+<a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
 
 <br/>
 
-Web Application / Telegram Bot / RDBMS
+Web Application (Flask) / Telegram Bot / RDBMS
 1. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/attendance_webapp">github</a>
 
 <!---
