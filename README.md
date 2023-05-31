@@ -7,7 +7,7 @@
 # Personal projects:
 1. HDB Resale Prices Predictor and Dashboard <a href="https://github.com/sienlonglim/ml_webapp">github</a>
 <br> Focus: ML Model building, deployment and dashboarding
-- Large dataset >20k involving geodata
+- Large dataset involving geodata
 - Rest API calls to Data.gov.sg
 - Feature creation and selection (KBest, L1 Regularisation)
 - Hyperparameter tuning (Random Cross Validation)
@@ -19,19 +19,27 @@
 
 2. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation 
 <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
+Focus : Web scrapping and ETL
 - Web Scrapping (BS4)
-- RDBMS (MariaDB)
+- RDBMS (MySQL)
 - K means clustering
 
 <br/>
 
 3. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/attendance_webapp">github</a>
-<br> Web Application (Flask) / Bootstrap 5 / Telegram Bot / RDBMS
+<br> Focus : User experience
+- Web Application (Flask) with Bootstrap 5
+- Telegram Bot API
+- RDBMS (MariaDB)
 
 <br/>
 
 4. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)
-<a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">data source</a>
+<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99">github</a>
+<br> Focus : SQL database design, query, and Report writing
+- MariaDB with CLI and DBVisualizer
+- MySQL python connector
+- <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">Data source</a>
 
 <br/>
 
