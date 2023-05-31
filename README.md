@@ -5,20 +5,23 @@
 - 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/, https://leetcode.com/Natuyuki/ , https://www.kaggle.com/sienlong
 
 # Personal projects:
-
-ML Model building and deployment / Web Application (Flask) / Dashboard (Streamlit) / Bootstrap 5 
 1. HDB Resale Prices Predictor and Dashboard <a href="https://github.com/sienlonglim/ml_webapp">github</a>
 - Large dataset >20k involving geodata
 - Rest API calls
+ML Model building and deployment 
 - Feature creation and selection (KBest, L1 Regularisation)
 - Hyperparameter tuning (Random Cross Validation)
 - Ensemble models (Gradient boosting, Random forest)
+Web Application (Flask) with Bootstrap 5 
+Dashboarding (Streamlit)
 
 <br/>
 
-Web Scrapping (BS4) / RDBMS / clustering
-1. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation 
+2. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation 
 <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
+- Web Scrapping (BS4)
+- RDBMS (MariaDB)
+- K means clustering
 
 <br/>
 
