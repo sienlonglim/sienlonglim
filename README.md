@@ -6,7 +6,7 @@
 
 # Personal projects:
 1. HDB Resale Prices Predictor and Dashboard <a href="https://github.com/sienlonglim/ml_webapp">github</a>
-ML Model building and deployment 
+<br> Focus: ML Model building, deployment and dashboarding
 - Large dataset >20k involving geodata
 - Rest API calls to Data.gov.sg
 - Feature creation and selection (KBest, L1 Regularisation)
@@ -25,25 +25,27 @@ ML Model building and deployment
 
 <br/>
 
-Web Application (Flask) / Bootstrap 5 / Telegram Bot / RDBMS
-1. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/attendance_webapp">github</a>
+3. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/attendance_webapp">github</a>
+<br> Web Application (Flask) / Bootstrap 5 / Telegram Bot / RDBMS
 
 <br/>
 
-Exploratory Data Analysis / Machine Learning
-1. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)
+4. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)
 <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">data source</a>
 
-2. Classification of Watson Healthcare Employee Attrition (Decision Tree) 
+<br/>
+
+5. Other Exploratory Data Analysis / Machine Learning projects
+- Classification of Watson Healthcare Employee Attrition (Decision Tree) 
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
 
-3. Regression fill on World Economic Data (Linear, polynomial regression)
+- Regression fill on World Economic Data (Linear, polynomial regression)
 <a href="https://www.kaggle.com/code/sienlong/world-economic-data-polynomial-regression">kaggle</a>
 
-4. EDA of World Population Data (Interactive charts with Plotly)
+- EDA of World Population Data (Interactive charts with Plotly)
 <a href="https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths">kaggle</a>
 
-5. EDA and recommendation on pet store sales (Fictitious dataset) 
+- EDA and recommendation on pet store sales (Fictitious dataset) 
 <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales">github</a>
 
 <!---
