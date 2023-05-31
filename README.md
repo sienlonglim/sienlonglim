@@ -6,14 +6,14 @@
 
 # Personal projects:
 1. HDB Resale Prices Predictor and Dashboard <a href="https://github.com/sienlonglim/ml_webapp">github</a>
-- Large dataset >20k involving geodata
-- Rest API calls
 ML Model building and deployment 
+- Large dataset >20k involving geodata
+- Rest API calls to Data.gov.sg
 - Feature creation and selection (KBest, L1 Regularisation)
 - Hyperparameter tuning (Random Cross Validation)
 - Ensemble models (Gradient boosting, Random forest)
-Web Application (Flask) with Bootstrap 5 
-Dashboarding (Streamlit)
+- Web Application (Flask) with Bootstrap 5 
+- Dashboarding (Streamlit)
 
 <br/>
 
