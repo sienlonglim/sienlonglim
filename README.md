@@ -5,8 +5,9 @@
 - 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/, https://leetcode.com/Natuyuki/ , https://www.kaggle.com/sienlong
 
 # Personal projects:
-1. HDB Resale Prices Predictor and Dashboard <a href="https://github.com/sienlonglim/ml_webapp">github</a>
+1. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a>
 <br> Focus: ML Model building, deployment and dashboarding
+<br> <a href="https://natuyuki.pythonanywhere.com">Live website</a>
 - Large dataset involving geodata
 - Rest API calls to Data.gov.sg
 - Feature creation and selection (KBest, L1 Regularisation)
@@ -17,8 +18,7 @@
 
 <br/>
 
-2. Yahoo ticker financial stats scrapper,  S&P and portfolio analysis (K-means) and stock recommendation 
-<a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">github</a>
+2. <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">Yahoo finance scrapper, financial portfolio analysis (K-means) and stock recommendation </a>
 Focus : Web scrapping and ETL
 - Web Scrapping (BS4)
 - RDBMS (MySQL)
@@ -26,7 +26,7 @@ Focus : Web scrapping and ETL
 
 <br/>
 
-3. Web application for SkillsFuture website attendance taking summary <a href="https://github.com/sienlonglim/attendance_webapp">github</a>
+3. <a href="https://github.com/sienlonglim/attendance_webapp">Web application for SkillsFuture website attendance taking summary</a>
 <br> Focus : User experience
 - Web Application (Flask) with Bootstrap 5
 - Telegram Bot API
@@ -34,9 +34,8 @@ Focus : Web scrapping and ETL
 
 <br/>
 
-4. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)
-<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99">github</a>
-<br> Focus : SQL database design, query, and Report writing
+4. <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99">EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)</a>
+<br> Focus : SQL database design, querying, and Report writing
 - MariaDB with CLI and DBVisualizer
 - MySQL python connector
 - <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">Data source</a>
