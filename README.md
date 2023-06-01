@@ -5,11 +5,11 @@
 - 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/
 
 # Personal projects:
-1. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a>
+1. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a> :house:
 <br> Focus: ML Model building, deployment and dashboarding
 <br> <a href="https://natuyuki.pythonanywhere.com">Live website</a>
-- Large dataset involving geodata
-- Rest API calls to Data.gov.sg
+- Large dataset involving geodata :earth_asia:
+- Rest API calls to Data.gov.sg and OneMap API :world_map:
 - Feature creation and selection (KBest, L1 Regularisation)
 - Hyperparameter tuning (Random Cross Validation)
 - Ensemble models (Gradient boosting, Random forest)
@@ -18,15 +18,15 @@
 
 <br/>
 
-2. <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">Yahoo finance scrapper, financial portfolio analysis (K-means) and stock recommendation </a>
-Focus : Web scrapping and ETL
+2. <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">Yahoo finance scrapper, financial portfolio analysis (K-means) and stock recommendation </a> :chart:
+<br> Focus : Web scrapping and ETL
 - Web Scrapping (BS4)
 - RDBMS (MySQL)
 - K means clustering
 
 <br/>
 
-3. <a href="https://github.com/sienlonglim/attendance_webapp">Web application for SkillsFuture website attendance taking summary</a>
+3. <a href="https://github.com/sienlonglim/attendance_webapp">Web application for SkillsFuture website attendance taking summary</a> :books:
 <br> Focus : User experience
 - Web Application (Flask) with Bootstrap 5
 - Telegram Bot API
@@ -34,7 +34,7 @@ Focus : Web scrapping and ETL
 
 <br/>
 
-4. <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99">EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)</a>
+4. <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99">EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)</a> :classical_building: :moneybag:
 <br> Focus : SQL database design, querying, and Report writing
 - MariaDB with CLI and DBVisualizer
 - MySQL python connector
@@ -43,16 +43,16 @@ Focus : Web scrapping and ETL
 <br/>
 
 5. Other Exploratory Data Analysis / Machine Learning projects
-- Classification of Watson Healthcare Employee Attrition (Decision Tree) 
+- Classification of Watson Healthcare Employee Attrition (Decision Tree) :man_health_worker:
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
 
-- Regression fill on World Economic Data (Linear, polynomial regression)
+- Regression fill on World Economic Data (Linear, polynomial regression) :dollar:
 <a href="https://www.kaggle.com/code/sienlong/world-economic-data-polynomial-regression">kaggle</a>
 
-- EDA of World Population Data (Interactive charts with Plotly)
+- EDA of World Population Data (Interactive charts with Plotly) :earth_asia:
 <a href="https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths">kaggle</a>
 
-- EDA and recommendation on pet store sales (Fictitious dataset) 
+- EDA and recommendation on pet store sales (Fictitious dataset) :dog:
 <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales">github</a>
 
 <!---
