@@ -14,7 +14,8 @@
 - Hyperparameter tuning (Random Cross Validation)
 - Ensemble models (Gradient boosting, Random forest)
 - Web Application (Flask) with Bootstrap 5 
-- Dashboarding (Streamlit)
+- Dashboarding (<a href="https://sienlonglim-ml-webapp-streamlit-app-ax51az.streamlit.app/">Streamlit</a>)
+- Dashboarding (<a href="https://public.tableau.com/app/profile/sien.long.lim/viz/HDBResalePrices2022-2023/SingaporePublicHousingHDBResalePrices2022-2023">Tableau Public</a>)
 
 <br/>
 
