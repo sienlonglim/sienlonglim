@@ -5,7 +5,13 @@
 - 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/
 
 # Personal projects:
-1. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a> :house:
+1. <a href="https://github.com/sienlonglim/LangChain">Document Query Bot (RAG framework)</a> :house:
+<br> Focus: LLM, semantic search, RAG framework, knowledge base
+<br> <a href="https://document-query-bot.streamlit.app/">Streamlit App</a>
+
+This project implements RAG using OpenAI's embedding models and LangChain's Python library
+
+3. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a> :house:
 <br> Focus: ML Model building, deployment and dashboarding
 <br> <a href="https://natuyuki.pythonanywhere.com">Live website</a>
 - Large dataset involving geodata :earth_asia:
@@ -19,7 +25,7 @@
 
 <br/>
 
-2. <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">Yahoo finance scrapper, financial portfolio analysis (K-means) and stock recommendation </a> :chart:
+3. <a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">Yahoo finance scrapper, financial portfolio analysis (K-means) and stock recommendation </a> :chart:
 <br> Focus : Web scrapping and ETL
 - Web Scrapping (BS4)
 - RDBMS (MySQL)
@@ -27,7 +33,7 @@
 
 <br/>
 
-3. <a href="https://github.com/sienlonglim/attendance_webapp">Web application for SkillsFuture website attendance taking summary</a> :books:
+4. <a href="https://github.com/sienlonglim/attendance_webapp">Web application for SkillsFuture website attendance taking summary</a> :books:
 <br> Focus : User experience
 - Web Application (Flask) with Bootstrap 5
 - Telegram Bot API
@@ -35,7 +41,7 @@
 
 <br/>
 
-4. <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99">EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)</a> :classical_building: :moneybag:
+5. <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99">EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge)</a> :classical_building: :moneybag:
 <br> Focus : SQL database design, querying, and Report writing
 - MariaDB with CLI and DBVisualizer
 - MySQL python connector
@@ -43,7 +49,7 @@
 
 <br/>
 
-5. Other Exploratory Data Analysis / Machine Learning projects
+6. Other Exploratory Data Analysis / Machine Learning projects
 - Classification of Watson Healthcare Employee Attrition (Decision Tree) :man_health_worker:
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition">kaggle</a>
 
