@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sienlonglim
-- 👀 I’m interested in Data Engineering, Data Analytics and Data Science.
-- 🌱 I’m currently learning Python libraries, ML techniques, Power BI, Git, Statistical analysis, HTML, CSS, Bootstrap, Linux (Raspbian OS) etc
+- 👀 I’m interested in Data Science, Data Engineering and Data Analytics.
+- 🌱 I’m currently learning Math, Stats, AI/ML, Dashboarding, HTML, CSS, Bootstrap, Linux etc
 - 💞️ I’m looking to collaborate on anything that can help me learn.
-- 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/
+- 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/, https://www.linkedin.com/in/sienlong/
 
 # Personal projects:
 1. <a href="https://github.com/sienlonglim/LangChain">Document Query Bot (RAG framework)</a> :rocket:
@@ -14,7 +14,7 @@
 - LangChain
 - Streamlit
 
-3. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a> :house:
+2. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a> :house:
 <br> Focus: ML Model building, deployment and dashboarding
 <br> <a href="https://natuyuki.pythonanywhere.com">Live website</a>
 - Large dataset involving geodata :earth_asia:
