@@ -8,8 +8,7 @@
 1. <a href="https://github.com/sienlonglim/LangChain">Document Query Bot (RAG framework)</a> :house:
 <br> Focus: LLM, semantic search, RAG framework, knowledge base
 <br> <a href="https://document-query-bot.streamlit.app/">Streamlit App</a>
-
-This project implements RAG using OpenAI's embedding models and LangChain's Python library
+<br> This project implements RAG using OpenAI's embedding models and LangChain's Python library
 
 3. <a href="https://github.com/sienlonglim/ml_webapp">HDB Resale Prices Predictor and Dashboard </a> :house:
 <br> Focus: ML Model building, deployment and dashboarding
