@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href=https://github.com/sienlonglim/sienlonglim><img alt="Static Badge" src="https://img.shields.io/badge/sienlonglim-black?logo=github"></a>
-- 👀 I’m interested in Data Science, Data Engineering and Data Analytics.
-- 🌱 I’m currently learning Math, Stats, AI/ML, Dashboarding, HTML, CSS, Bootstrap, Linux etc
+- 👀 I’m interested in Data Science, Data Engineering and Data Analytics. Anything related to AI/ML!
+- 🌱 I’m currently pursuing a Masters of Science in Analytics at Georgia Tech.
 - 💞️ I’m looking to collaborate on anything that can help me learn.
 - 📫 How to reach me <a href="mailto:limsienlong@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/email-white?logo=gmail&labelColor=white"></a> 
 <a href="https://www.linkedin.com/in/sienlong/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&labelColor=blue"></a> 
