@@ -8,7 +8,7 @@
 
 # Personal projects:
 1. Document Query Bot (RAG Framework)<br>
-<a href="https://github.com/sienlonglim/LangChain"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> 
+<a href="https://github.com/sienlonglim/LangChain"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/LangChain">
 <a href="https://document-query-bot.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20App-red?style=flat-square&logo=streamlit&labelColor=white"></a> 
 
 - Document splitting
@@ -18,8 +18,8 @@
 - Retrieval chain
 
 2. HDB Resale Prices Predictor and Dashboard <br>
-<a href="https://github.com/sienlonglim/ml_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a>
-<a href="https://natuyuki.pythonanywhere.com"><img alt="Static Badge" src="https://img.shields.io/badge/website-blue?style=flat-square&logo=python&labelColor=white"></a>
+<a href="https://github.com/sienlonglim/ml_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/ml_webapp">
+<a href="https://natuyuki.pythonanywhere.com"><img alt="Static Badge" src="https://img.shields.io/badge/webapp-blue?style=flat-square&logo=python&labelColor=white"></a>
 <a href="https://sienlonglim-ml-webapp-streamlit-app-ax51az.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20Dashboard-red?style=flat-square&logo=streamlit&labelColor=white"></a>
 <a href="https://public.tableau.com/app/profile/sien.long.lim/viz/HDBResalePrices2022-2023/SingaporePublicHousingHDBResalePrices2022-2023"><img alt="Static Badge" src="https://img.shields.io/badge/tableau-yellow?style=flat-square&logo=tableau&labelColor=white"></a>
 - Large dataset involving geodata :earth_asia:
@@ -32,7 +32,7 @@
 <br/>
 
 3. Yahoo finance scrapper, financial portfolio analysis (K-means) and stock recommendation <br>
-<a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a>
+<a href="https://github.com/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/yahoo_ticker_stats_scrapper_kmeans_analysis">
 - Web Scrapping (BS4)
 - ETL
 - RDBMS (MySQL)
@@ -41,7 +41,7 @@
 <br/>
 
 4. Web application for SkillsFuture website attendance taking summary <br>
-<a href="https://github.com/sienlonglim/attendance_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> 
+<a href="https://github.com/sienlonglim/attendance_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/attendance_webapp">
 - Web Application (Flask) with Bootstrap 5
 - Telegram Bot API
 - RDBMS (MariaDB)
@@ -49,7 +49,7 @@
 <br/>
 
 5. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge) <br>
-<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a>
+<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/eda_data_cleaning">
 - Database design (MariaDB - CLI, visualizer)
 - MariaDB with CLI and DBVisualizer
 - SQL queries, connectors
