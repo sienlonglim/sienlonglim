@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science, Data Engineering and Data Analytics.
 - 🌱 I’m currently learning Math, Stats, AI/ML, Dashboarding, HTML, CSS, Bootstrap, Linux etc
 - 💞️ I’m looking to collaborate on anything that can help me learn.
-- 📫 How to reach me limsienlong@gmail.com, https://sienlonglim.github.io/, https://www.linkedin.com/in/sienlong/
+- 📫 How to reach me <img alt="Static Badge" src="https://img.shields.io/badge/email-limsienlong%40gmail.com-blue?link=mailto%3Alimsienlong%40gmail.com">
+ , https://www.linkedin.com/in/sienlong/
 
 # Personal projects:
 1. <a href="https://github.com/sienlonglim/LangChain">Document Query Bot (RAG framework)</a> :rocket:
