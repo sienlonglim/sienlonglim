@@ -18,7 +18,7 @@
 - Retrieval chain
 
 2. HDB Resale Prices Predictor and Dashboard <br>
-<a href="https://github.com/sienlonglim/ml_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/ml_webapp">
+<a href="https://github.com/sienlonglim/ml_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/ml_webapp"> <a href="https://beta.data.gov.sg/"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
 <a href="https://natuyuki.pythonanywhere.com"><img alt="Static Badge" src="https://img.shields.io/badge/webapp-blue?style=flat-square&logo=python&labelColor=white"></a>
 <a href="https://sienlonglim-ml-webapp-streamlit-app-ax51az.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20Dashboard-red?style=flat-square&logo=streamlit&labelColor=white"></a>
 <a href="https://public.tableau.com/app/profile/sien.long.lim/viz/HDBResalePrices2022-2023/SingaporePublicHousingHDBResalePrices2022-2023"><img alt="Static Badge" src="https://img.shields.io/badge/tableau-yellow?style=flat-square&logo=tableau&labelColor=white"></a>
@@ -49,12 +49,11 @@
 <br/>
 
 5. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge) <br>
-<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/eda_data_cleaning">
+<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/eda_data_cleaning"> <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
 - Database design (MariaDB - CLI, visualizer)
 - MariaDB with CLI and DBVisualizer
 - SQL queries, connectors
 - Report writing
-- <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">Data source</a>
 
 <br/>
 
