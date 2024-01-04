@@ -38,7 +38,6 @@
 - RDBMS (MySQL)
 - K means clustering
 - ARIMA
-- KNN
 
 <br/>
 
