@@ -21,7 +21,7 @@
 <a href="https://github.com/sienlonglim/ml_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/ml_webapp"> <a href="https://beta.data.gov.sg/"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
 <a href="https://natuyuki.pythonanywhere.com"><img alt="Static Badge" src="https://img.shields.io/badge/webapp-blue?style=flat-square&logo=python&labelColor=white"></a>
 <a href="https://sienlonglim-ml-webapp-streamlit-app-ax51az.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20Dashboard-red?style=flat-square&logo=streamlit&labelColor=white"></a>
-<a href="https://public.tableau.com/app/profile/sien.long.lim/viz/HDBResalePrices2022-2023/SingaporePublicHousingHDBResalePrices2022-2023"><img alt="Static Badge" src="https://img.shields.io/badge/tableau-yellow?style=flat-square&logo=tableau&labelColor=white"></a>
+<a href="https://public.tableau.com/app/profile/sien.long.lim/viz/HDBResalePrices2022-2023/FindyourHDBflat"><img alt="Static Badge" src="https://img.shields.io/badge/tableau-yellow?style=flat-square&logo=tableau&labelColor=white"></a>
 - Large dataset involving geodata :earth_asia:
 - Rest API calls to Data.gov.sg and OneMap API :world_map:
 - Feature creation and selection (KBest, L1 Regularisation)
