@@ -25,7 +25,7 @@
 - Large dataset involving geodata :earth_asia:
 - Rest API calls to Data.gov.sg and OneMap API :world_map:
 - Feature creation and selection (KBest, L1 Regularisation)
-- Hyperparameter tuning (Random Cross Validation)
+- Hyperparameter tuning (Random CV)
 - Ensemble models (Gradient boosting, Random forest)
 - Web Application (Flask) with Bootstrap 5 
 
