@@ -31,7 +31,15 @@
 
 <br/>
 
-3. Stock portfolio analysis (K-means), forecasting (ARIMA) and stock recommendation <br>
+3. Dagster-dbt-duckdb Pipeline <br>
+<a href="[https://github.com/sienlonglim/ml_webapp](https://github.com/sienlonglim/dbt-elt)"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/ml_webapp"> <a href="https://beta.data.gov.sg/"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
+- Dagster for orchestration
+- Dbt for data modeling and transformation
+- DuckDB for storage
+
+<br/>
+
+4. Stock portfolio analysis (K-means), forecasting (ARIMA) and stock recommendation <br>
 <a href="https://github.com/sienlonglim/financial_analysis_forecasting"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/financial_analysis_forecasting">
 - Web Scrapping (BS4)
 - ETL
@@ -41,7 +49,7 @@
 
 <br/>
 
-4. Web application for SkillsFuture website attendance taking summary <br>
+5. Web application for SkillsFuture website attendance taking summary <br>
 <a href="https://github.com/sienlonglim/attendance_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/attendance_webapp">
 - Web Application (Flask) with Bootstrap 5
 - Telegram Bot API
@@ -49,7 +57,7 @@
 
 <br/>
 
-5. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge) <br>
+6. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge) <br>
 <a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/eda_data_cleaning"> <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
 - Database design (MariaDB - CLI, visualizer)
 - MariaDB with CLI and DBVisualizer
@@ -58,7 +66,7 @@
 
 <br/>
 
-6. Other Exploratory Data Analysis / Machine Learning projects
+7. Other Exploratory Data Analysis / Machine Learning projects
 - Classification of Watson Healthcare Employee Attrition (Decision Tree) :man_health_worker:
 <a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-blue?style=flat-square&logo=kaggle&labelColor=white"></a>
 
