@@ -32,7 +32,7 @@
 <br/>
 
 3. Dagster-dbt-duckdb Pipeline <br>
-<a href="[https://github.com/sienlonglim/ml_webapp](https://github.com/sienlonglim/dbt-elt)"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/dbt-elt">
+<a href="https://github.com/sienlonglim/dbt-elt"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/dbt-elt">
 - Dagster for orchestration
 - Dbt for data modeling and transformation
 - DuckDB for storage
