@@ -65,20 +65,6 @@
 - Report writing
 
 <br/>
-
-7. Other Exploratory Data Analysis / Machine Learning projects
-- Classification of Watson Healthcare Employee Attrition (Decision Tree) :man_health_worker:
-<a href="https://www.kaggle.com/code/sienlong/eda-predictive-analysis-on-healthcare-attrition"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-blue?style=flat-square&logo=kaggle&labelColor=white"></a>
-
-- Regression fill on World Economic Data (Linear, polynomial regression) :dollar:
-<a href="https://www.kaggle.com/code/sienlong/world-economic-data-polynomial-regression"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-blue?style=flat-square&logo=kaggle&labelColor=white"></a>
-
-- EDA of World Population Data (Interactive charts with Plotly) :earth_asia:
-<a href="https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-blue?style=flat-square&logo=kaggle&labelColor=white"></a>
-
-- EDA and recommendation on pet store sales (Fictitious dataset) :dog:
-<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/pet_sales"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a>
-
 <!---
 Natuyuki-SL/Natuyuki-SL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
