@@ -7,7 +7,7 @@
 <a href="https://sienlonglim.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/webpage-black?logo=github"></a> 
 
 # Personal projects:
-1. Job Finder
+1. Job Finder <br>
 <a href="https://github.com/sienlonglim/job-finder"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/job-finder"> [![scheduled run main.py](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml/badge.svg)](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml)
 - Data mining
 - Automation with GitHub runners
