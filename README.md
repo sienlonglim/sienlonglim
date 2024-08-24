@@ -7,7 +7,24 @@
 <a href="https://sienlonglim.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/webpage-black?logo=github"></a> 
 
 # Personal projects:
-1. Document Query Bot (RAG Framework)<br>
+1. Job Finder
+<a href="https://github.com/sienlonglim/job-finder"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/job-finder"> [![scheduled run main.py](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml/badge.svg)](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml)
+- Data mining
+- Automation with GitHub runners
+- S3 and SMTP integration
+
+<br/>
+
+2. Dagster-dbt-duckdb Pipeline <br>
+<a href="https://github.com/sienlonglim/dbt-elt"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/dbt-elt">
+- Dagster for orchestration
+- S3 as data lake
+- Dbt for data modeling and transformation
+- DuckDB for data warehousing
+
+<br/>
+
+3. Document Query Bot (RAG Framework)<br>
 <a href="https://github.com/sienlonglim/LangChain"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/LangChain">
 <a href="https://document-query-bot.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20App-red?style=flat-square&logo=streamlit&labelColor=white"></a> 
 
@@ -17,7 +34,7 @@
 - Semantic search
 - Retrieval chain
 
-2. HDB Resale Prices Predictor and Dashboard <br>
+4. HDB Resale Prices Predictor and Dashboard <br>
 <a href="https://github.com/sienlonglim/ml_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/ml_webapp"> <a href="https://beta.data.gov.sg/"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
 <a href="https://natuyuki.pythonanywhere.com"><img alt="Static Badge" src="https://img.shields.io/badge/webapp-blue?style=flat-square&logo=python&labelColor=white"></a>
 <a href="https://sienlonglim-ml-webapp-streamlit-app-ax51az.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20Dashboard-red?style=flat-square&logo=streamlit&labelColor=white"></a>
@@ -31,15 +48,7 @@
 
 <br/>
 
-3. Dagster-dbt-duckdb Pipeline <br>
-<a href="https://github.com/sienlonglim/dbt-elt"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/dbt-elt">
-- Dagster for orchestration
-- Dbt for data modeling and transformation
-- DuckDB for storage
-
-<br/>
-
-4. Stock portfolio analysis (K-means), forecasting (ARIMA) and stock recommendation <br>
+5. Stock portfolio analysis (K-means), forecasting (ARIMA) and stock recommendation <br>
 <a href="https://github.com/sienlonglim/financial_analysis_forecasting"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/financial_analysis_forecasting">
 - Web Scrapping (BS4)
 - ETL
@@ -49,7 +58,7 @@
 
 <br/>
 
-5. Web application for SkillsFuture website attendance taking summary <br>
+6. Web application for SkillsFuture website attendance taking summary <br>
 <a href="https://github.com/sienlonglim/attendance_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/attendance_webapp">
 - Web Application (Flask) with Bootstrap 5
 - Telegram Bot API
