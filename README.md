@@ -7,15 +7,8 @@
 <a href="https://sienlonglim.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/webpage-black?logo=github"></a> 
 
 # Personal projects:
-1. Job Finder <br>
-<a href="https://github.com/sienlonglim/job-finder"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/job-finder"> [![scheduled run main.py](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml/badge.svg)](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml)
-- Data mining
-- Automation with GitHub runners
-- S3 and SMTP integration
 
-<br/>
-
-2. Dagster-dbt-duckdb Pipeline <br>
+1. Dagster-dbt-duckdb Pipeline <br>
 <a href="https://github.com/sienlonglim/dbt-elt"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/dbt-elt">
 - Dagster for orchestration
 - S3 as data lake
@@ -24,7 +17,7 @@
 
 <br/>
 
-3. Document Query Bot (RAG Framework)<br>
+2. Document Query Bot (RAG Framework)<br>
 <a href="https://github.com/sienlonglim/LangChain"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/LangChain">
 <a href="https://document-query-bot.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20App-red?style=flat-square&logo=streamlit&labelColor=white"></a> 
 
@@ -33,6 +26,16 @@
 - Vector database (Chroma / FAISS)
 - Semantic search
 - Retrieval chain
+
+<br/>
+
+3. Job Finder <br>
+<a href="https://github.com/sienlonglim/job-finder"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/job-finder"> [![scheduled run main.py](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml/badge.svg)](https://github.com/sienlonglim/job-finder/actions/workflows/actions.yaml)
+- Data mining
+- Automation with GitHub runners
+- S3 and SMTP integration
+
+<br/>
 
 4. HDB Resale Prices Predictor and Dashboard <br>
 <a href="https://github.com/sienlonglim/ml_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/ml_webapp"> <a href="https://beta.data.gov.sg/"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
