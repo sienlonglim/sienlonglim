@@ -60,23 +60,6 @@
 - ARIMA
 
 <br/>
-
-6. Web application for SkillsFuture website attendance taking summary <br>
-<a href="https://github.com/sienlonglim/attendance_webapp"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/attendance_webapp">
-- Web Application (Flask) with Bootstrap 5
-- Telegram Bot API
-- RDBMS (MariaDB)
-
-<br/>
-
-6. EDA of Real Anonymized Financial Dataset with SQL (Czech Republic PKDD 99' Discovery Challenge) <br>
-<a href="https://github.com/sienlonglim/eda_data_cleaning/tree/main/PKDD99"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/eda_data_cleaning"> <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions"><img alt="Static Badge" src="https://img.shields.io/badge/datasource-grey"></a>
-- Database design (MariaDB - CLI, visualizer)
-- MariaDB with CLI and DBVisualizer
-- SQL queries, connectors
-- Report writing
-
-<br/>
 <!---
 Natuyuki-SL/Natuyuki-SL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
