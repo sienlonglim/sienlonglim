@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything that can help me learn.
 - 📫 How to reach me <a href="mailto:limsienlong@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/email-white?logo=gmail&labelColor=white"></a> 
 <a href="https://www.linkedin.com/in/sienlong/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&labelColor=blue"></a> 
-<a href="https://sienlonglim.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/webpage-black?logo=github"></a> 
 
 # Personal projects:
 
