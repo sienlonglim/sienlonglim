@@ -49,16 +49,6 @@
 - Web Application (Flask) with Bootstrap 5 
 
 <br/>
-
-5. Stock portfolio analysis (K-means), forecasting (ARIMA) and stock recommendation <br>
-<a href="https://github.com/sienlonglim/financial_analysis_forecasting"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/financial_analysis_forecasting">
-- Web Scrapping (BS4)
-- ETL
-- RDBMS (MySQL)
-- K means clustering
-- ARIMA
-
-<br/>
 <!---
 Natuyuki-SL/Natuyuki-SL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
