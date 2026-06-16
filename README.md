@@ -7,12 +7,12 @@
 
 # Personal projects:
 
-1. Dagster-dbt-duckdb Pipeline <br>
-<a href="https://github.com/sienlonglim/dbt-elt"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/dbt-elt">
+1. Dagster-dbt-duckdb Pipeline for Portfolio Management <br>
+<a href="https://github.com/sienlonglim/portfolio-tracker"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/sienlonglim/portfolio-tracker">
 - Dagster for orchestration
 - S3 as data lake
 - Dbt for data modeling and transformation
-- DuckDB for data warehousing
+- DuckDB / MotherDuck for data warehousing
 
 <br/>
 
